@@ -1,5 +1,8 @@
-[workspace]
-members = ["day-28", "day-29", "day-30", "day-31", "day-32", "day-33"]
-resolver = "2"
+[package]
+name = "day-33"
+version = "0.1.0"
+edition = "2021"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
