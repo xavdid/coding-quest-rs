@@ -1,5 +1,5 @@
 [workspace]
-members = ["day-28", "day-29", "day-30", "day-31", "day-32", "day-33", "day-34", "day-35"]
+members = ["day-28", "day-29", "day-30", "day-31", "day-32", "day-33", "day-34", "day-35", "day-36"]
 resolver = "2"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
